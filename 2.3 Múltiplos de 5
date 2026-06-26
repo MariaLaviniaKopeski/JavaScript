@@ -1,4 +1,0 @@
-obj= 5,10,15,20,25;
-for(let i=0;i<=50;i+=5){
-  console.log(i);
-}
