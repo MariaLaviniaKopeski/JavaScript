@@ -1,0 +1,5 @@
+const primeiroNome = "maria "; 
+const nome2 = "lavinia kopeski"; 
+const nome3 = primeiroNome + nome2;
+
+console.log(nome3);
